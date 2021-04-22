@@ -1,4 +1,4 @@
-## ** Mandelbrot Set Using Python **
+## Mandelbrot Set Using Python 
 
 ` Required libraries:`
 
