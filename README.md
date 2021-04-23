@@ -11,3 +11,6 @@
 
 _The mandelbrot set can be modified easily._
 
+23/04/2021
+#### ADDED Mandelbrot set with dots.
+
